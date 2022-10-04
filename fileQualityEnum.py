@@ -1,0 +1,9 @@
+class VIDEOQUALITY:
+    HIGH = "720p"
+    MEDIUM = "360p"
+    LOW = "240p"
+
+
+class AUDIOQUALITY:
+    MEDIUM = "AUDIO_QUALITY_MEDIUM"
+    LOW = "AUDIO_QUALITY_LOW"
