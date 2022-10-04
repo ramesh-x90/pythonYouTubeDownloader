@@ -207,3 +207,4 @@ def extractCipherLink(signatureCipher : str , func : Callable[[ytVideo , str] , 
 if __name__ == "__main__":
     ytVideo("https://youtu.be/hq_AV304EM8" , vQ="low" , aQ="low")
     ytVideo("https://youtu.be/pl5WHx8QCVk" , vQ="high" , aQ="high")
+    ytVideo("https://youtu.be/pOoR5KFDD_w" , vQ="high" , aQ="high")
